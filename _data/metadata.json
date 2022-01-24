@@ -1,21 +1,21 @@
 {
   "title": "Christina Gorton",
-  "url": "https://example.com/",
+  "url": "https://www.christinagorton.com/",
   "language": "en",
   "description": "A digital garden to share what I am learning in tech.",
   "feed": {
     "subtitle": "Learn and grow with me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://www.christinagorton.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Christina Gorton",
     "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://www.christinagorton.com/about/"
   }
 }
