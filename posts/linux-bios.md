@@ -1,6 +1,6 @@
 ---
 title: Root to Linux, BIOS
-description: Learn the basics of BIOS
+description: Learn how to use BIOS
 date: 2021-11-04
 tags:
   - posts
